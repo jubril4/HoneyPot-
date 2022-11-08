@@ -22,7 +22,7 @@
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record? 
+**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record? SQL is the RDBMS that the MHN_Admin uses and the information that is exported by the JSON file is information of the analyzed attacks that were caught by the MHN admin VM. 
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
@@ -32,3 +32,4 @@
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
+I encountered challenges setting up the virtual machine for the Gmail cloud, I kept encountering syntax errors so it was frustruating at first, but once I kept reading over the instructions a few times, the compiler became a little bit easier as time went on. 
